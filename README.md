@@ -1,0 +1,2 @@
+sharestack-core
+===============
